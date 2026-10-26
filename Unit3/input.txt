@@ -1,0 +1,4 @@
+Python is a programming language.
+It is easy to learn.
+Python supports file handling.
+Files can store data permanently.
